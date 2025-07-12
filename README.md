@@ -1,6 +1,6 @@
 # 📦 Product Slides Server
 
-This is a lightweight **ASP.NET Core API** that serves static **images** and **videos** for pharmaceutical product slides and automatically **seeds metadata into a MySQL database** on startup.
+This is a lightweight **ASP.NET Core API** that serves static **images** and **videos** for pharmaceutical product slides and automatically **seeds metadata into a SQL Server database** on startup.
 
 ## 🧱 Tech Stack
 
